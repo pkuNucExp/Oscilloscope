@@ -4,9 +4,9 @@
 ;; Author: Hongyi Wu(吴鸿毅)
 ;; Email: wuhongyi@qq.com 
 ;; Created: 五 11月 23 13:41:08 2018 (+0800)
-;; Last-Updated: 五 11月 23 20:50:00 2018 (+0800)
+;; Last-Updated: 五 11月 23 20:59:11 2018 (+0800)
 ;;           By: Hongyi Wu(吴鸿毅)
-;;     Update #: 3
+;;     Update #: 5
 ;; URL: http://wuhongyi.cn -->
 
 # 功能介绍
@@ -123,7 +123,7 @@
 
 菜单关闭时,某些读数会移出格线区域。
 
-![](/img/Menu_009.png)
+![1-19](/img/Menu_009.png)
 
 1. 采集读数显示采集运行、停止或采集预览有效的时间。
 2. 触发位置图标显示采集的触发位置。
