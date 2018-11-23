@@ -3,4 +3,6 @@
 <url> <loc>http://wuhongyi.cn/./</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://wuhongyi.cn/Instrument.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://wuhongyi.cn/Menu.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/RemoteControl.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wuhongyi.cn/Firmware.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
